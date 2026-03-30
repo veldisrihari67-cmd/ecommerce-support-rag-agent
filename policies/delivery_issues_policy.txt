@@ -1,0 +1,337 @@
+Delivery Issues and Exception Handling Policy
+1. Overview
+
+This document defines how delivery-related issues and exceptions are handled on the platform. It addresses delays, failed deliveries, damaged goods in transit, and customer claims regarding delivery problems.
+
+The goal is to ensure fair resolutions while maintaining operational feasibility and policy compliance.
+
+2. Delivery Status Definitions
+
+Orders may have the following delivery statuses:
+
+Placed
+Shipped
+Out for Delivery
+Delivered
+Delivery Failed
+Returned to Origin
+
+Each status determines the actions available to customers and support teams.
+
+3. Late Delivery
+
+An order is considered delayed if it is not delivered by the estimated delivery date.
+
+In such cases:
+
+Customers may contact support for updates
+Logistics partners are contacted for clarification
+
+Possible resolutions:
+
+Apology and status update
+Shipping fee refund (in select cases)
+Option to cancel (if not yet delivered)
+
+Late delivery alone does not automatically qualify for a full refund.
+
+4. Delivery of Perishable Items
+
+Perishable items (e.g., food products) are subject to strict conditions:
+
+Must be delivered within specified timeframes
+Quality may degrade if delayed
+
+If perishable items arrive damaged (e.g., melted, spoiled):
+
+Customer must report within 24 hours
+Evidence may be required
+
+Resolution:
+
+Replacement or refund based on verification
+
+Requests to keep the item and receive a full refund may be denied depending on policy.
+
+5. Damaged During Transit
+
+If items are damaged during delivery:
+
+Customer must report within 48 hours
+Provide supporting images or videos
+
+Resolution options:
+
+Replacement
+Refund
+
+Repeated claims may trigger additional verification.
+
+6. Delivery Marked as Completed but Not Received
+
+If tracking shows “delivered” but customer has not received the item:
+
+Customer must verify delivery address and surroundings
+Platform checks courier proof (photo, signature, GPS data)
+
+Possible outcomes:
+
+Replacement
+Refund
+Claim denial if delivery is confirmed
+7. Failed Delivery Attempts
+
+Delivery may fail due to:
+
+Customer unavailability
+Incorrect address
+Restricted access
+
+After multiple attempts:
+
+Order may be returned to origin
+Customer may request re-delivery or refund
+8. Refused Delivery
+
+If a customer refuses delivery:
+
+Order is marked as undelivered
+Item is returned to warehouse
+
+Refund processing begins after item is received back.
+
+Shipping charges may be deducted depending on the reason for refusal.
+
+9. Returned to Origin (RTO)
+
+Orders may be returned to origin due to:
+
+Failed delivery attempts
+Address issues
+Customer refusal
+
+Once returned:
+
+Refund is initiated
+Replacement may be offered if requested
+10. Partial Deliveries
+
+In some cases, orders may be delivered in parts:
+
+Customers are notified of split shipments
+Missing items must be reported within 48 hours
+
+Resolution:
+
+Replacement or refund for missing items
+11. Address Issues
+
+Customers are responsible for providing accurate delivery details.
+
+Incorrect or incomplete addresses may result in:
+
+Delivery delays
+Failed delivery
+Additional charges
+12. High-Value Item Deliveries
+
+For high-value items:
+
+OTP-based delivery confirmation may be required
+Signature or ID verification may be needed
+
+Failure to provide verification may delay delivery.
+
+13. Delivery Exceptions Due to External Factors
+
+Delays or failures may occur due to:
+
+Weather conditions
+Natural disasters
+Government restrictions
+Logistics disruptions
+
+In such cases:
+
+Delivery timelines may be extended
+Refunds are not automatically guaranteed
+14. Compensation and Goodwill
+
+In certain cases, the platform may offer:
+
+Partial refunds
+Promotional credits
+Future discount coupons
+
+These are provided at the discretion of the platform.
+
+15. Abuse Prevention
+
+The platform monitors patterns such as:
+
+Repeated claims of non-delivery
+Frequent damage complaints
+
+Actions may include:
+
+Additional verification
+Claim rejection
+Account restriction
+16. Escalation Handling
+
+If delivery issues are not resolved:
+
+Customers may request escalation
+Case reviewed by senior support
+
+Final decisions are based on evidence and policy guidelines.
+
+17. Marketplace Orders
+
+For seller-fulfilled orders:
+
+Seller may be responsible for delivery issues
+Platform may intervene if necessary
+
+Resolution timelines may vary.
+
+18. Policy Exceptions
+
+Certain requests may fall outside policy, such as:
+
+Requesting refund without returning item
+Claims reported after allowed timeframe
+
+Such requests may be denied or escalated for review.
+
+19. Policy Updates
+
+The platform reserves the right to update delivery-related policies.
+
+20. Customer Support
+
+Customers may contact support for delivery-related concerns. Resolution timelines typically range between 24–72 hours.
+
+
+Appendix A: Real-World Scenarios
+Scenario 1: Order Marked Delivered but Not Received
+Situation: System shows delivered but customer did not receive package
+Policy Applied: Delivery verification
+Decision: Investigation initiated; refund or replacement issued if confirmed
+Scenario 2: Late Delivery
+Situation: Order delivered after expected date
+Policy Applied: Delivery SLA
+Decision: Compensation or apology provided
+Scenario 3: Package Lost in Transit
+Situation: Shipment cannot be tracked or located
+Policy Applied: Logistics responsibility
+Decision: Full refund or replacement
+Scenario 4: Damaged Package on Arrival
+Situation: Product damaged during shipping
+Policy Applied: Transit protection
+Decision: Free return and replacement
+Scenario 5: Wrong Delivery Address
+Situation: Customer enters incorrect address
+Policy Applied: Address responsibility
+Decision: Order may fail or be returned
+Scenario 6: Delivery Attempt Failed
+Situation: Delivery agent unable to deliver
+Policy Applied: Retry mechanism
+Decision: Reattempt scheduled
+Scenario 7: Package Delivered to Neighbor
+Situation: Delivered to nearby location
+Policy Applied: Alternate delivery handling
+Decision: Customer informed with proof
+Scenario 8: Delivery Agent Misconduct
+Situation: Unprofessional behavior reported
+Policy Applied: Service quality policy
+Decision: Action taken against agent
+Scenario 9: Partial Delivery
+Situation: Only some items delivered
+Policy Applied: Order completeness
+Decision: Missing items re-shipped
+Scenario 10: Delivery Delay Due to Weather
+Situation: Natural conditions affect delivery
+Policy Applied: Force majeure
+Decision: Delivery rescheduled
+Appendix B: Regional Variations
+India
+Traffic and infrastructure delays common
+COD deliveries widely used
+Multiple delivery attempts standard
+United States
+Advanced tracking systems
+Faster logistics networks
+Reliable delivery timelines
+European Union
+Strict delivery timelines
+High customer expectations
+Efficient courier systems
+International Shipping
+Customs clearance delays
+Higher delivery time
+Additional verification steps
+Remote/Rural Areas
+Limited delivery coverage
+Longer delivery timelines
+Fewer delivery attempts
+Appendix C: Frequently Asked Questions (FAQs)
+Q1: What if my order is not delivered?
+
+A: You can report it for investigation.
+
+Q2: Can I track my delivery?
+
+A: Yes, through tracking system.
+
+Q3: What if delivery is delayed?
+
+A: Wait or contact support.
+
+Q4: What if package is damaged?
+
+A: Request replacement or refund.
+
+Q5: Can delivery be rescheduled?
+
+A: Yes, depending on availability.
+
+Q6: What if I am not available?
+
+A: Delivery will be reattempted.
+
+Q7: Can I change delivery address?
+
+A: Only before shipment.
+
+Q8: What if item is missing?
+
+A: Report for reshipment.
+
+Q9: Are delivery charges refundable?
+
+A: Depends on issue type.
+
+Q10: What is proof of delivery?
+
+A: Signature or OTP confirmation.
+
+Q11: What if wrong item delivered?
+
+A: Return and replacement available.
+
+Q12: Can someone else receive my order?
+
+A: Yes, with authorization.
+
+Q13: What if delivery agent misbehaves?
+
+A: Report to customer support.
+
+Q14: Why is delivery taking long?
+
+A: Due to logistics or external factors.
+
+Q15: Are international deliveries trackable?
+
+A: Yes, but updates may be slower.

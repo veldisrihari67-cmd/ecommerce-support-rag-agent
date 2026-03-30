@@ -1,0 +1,263 @@
+Promotions and Coupons Policy
+1. Overview
+
+This document defines the rules governing promotional offers, discount coupons, and special deals available on the platform. These policies ensure fair usage, prevent abuse, and maintain consistency across customers, sellers, and campaigns.
+
+Promotions may be platform-wide, seller-specific, or campaign-based and are subject to defined eligibility criteria.
+
+2. Types of Promotions
+
+The platform supports multiple types of promotional offers:
+
+Coupon Codes: Applied manually at checkout
+Auto-Applied Discounts: Automatically applied when conditions are met
+Bank Offers: Discounts based on payment method
+Seasonal Sales: Limited-time promotional campaigns
+Bundle Offers: Discounts on combined purchases
+
+Each type may have distinct terms and conditions.
+
+3. Coupon Eligibility
+
+Coupons are applicable only when all conditions are satisfied:
+
+Minimum order value requirement
+Applicable product categories
+Valid user account status
+Active validity period
+
+Coupons may be restricted to:
+
+New users only
+Specific regions
+Selected products or sellers
+4. Coupon Application Rules
+
+Customers must enter valid coupon codes during checkout. Key rules include:
+
+Only one coupon may be applied per order unless explicitly stated
+Coupons cannot be applied after order placement
+Discounts are calculated before or after taxes depending on campaign rules
+5. Coupon Expiry and Validity
+
+All coupons are time-bound and include:
+
+Start date and expiry date
+Limited redemption count (first-come-first-served)
+
+Expired coupons cannot be reinstated under normal circumstances.
+
+6. Non-Stackable Promotions
+
+In most cases, promotions cannot be combined:
+
+Coupon + Coupon → Not allowed
+Coupon + Bank Offer → Allowed in some cases
+Platform Discount + Seller Discount → May be combined
+
+Rules vary by campaign and are displayed at checkout.
+
+7. Cancellation and Refund Impact
+
+If an order using a coupon is cancelled:
+
+Coupon may not be reissued
+Refund amount excludes discount value
+
+For partial cancellations:
+
+Discount is recalculated proportionally
+8. Abuse and Misuse Prevention
+
+The platform actively monitors misuse of promotions, including:
+
+Multiple account creation to reuse coupons
+Exploiting pricing errors
+Unauthorized coupon distribution
+
+Consequences may include:
+
+Coupon invalidation
+Order cancellation
+Account suspension
+9. Seller-Specific Promotions
+
+Marketplace sellers may offer their own discounts:
+
+Seller coupons apply only to their products
+Platform does not guarantee seller promotions
+Seller terms may override general rules
+10. Pricing Errors and Corrections
+
+In case of incorrect pricing due to system errors:
+
+Orders may be cancelled or corrected
+Customers are notified before processing
+
+The platform reserves the right to revoke unintended discounts.
+
+11. Cashback and Wallet Offers
+
+Some promotions provide cashback instead of instant discount:
+
+Cashback credited after successful delivery
+Subject to return/cancellation conditions
+May have usage restrictions
+12. Regional Restrictions
+
+Certain promotions are limited by:
+
+Geographic region
+Shipping address
+Local regulations
+
+Users outside eligible regions cannot avail such offers.
+
+13. Dispute Handling
+
+If a promotion is not applied correctly:
+
+Customers may contact support
+Case reviewed based on campaign terms
+
+If eligible, compensation may be provided in the form of:
+
+Refund difference
+Replacement coupon
+14. Non-Transferable Nature
+
+Coupons are:
+
+Non-transferable
+Non-exchangeable for cash
+Valid only for the intended user
+15. Policy Updates
+
+Promotion rules may change based on campaigns, business strategies, or regulatory requirements.
+
+16. Customer Support
+
+Customers can reach support for issues related to promotions. Resolution timelines typically range between 24–72 hours.
+
+Appendix A: Real-World Scenarios
+Scenario 1: Coupon Not Applied at Checkout
+Situation: Customer enters valid coupon but discount not applied
+Policy Applied: Coupon validation rules
+Decision: Verify eligibility; apply manually if valid
+Scenario 2: Expired Coupon Usage
+Situation: Customer tries to use expired coupon
+Policy Applied: Expiry enforcement
+Decision: Coupon rejected
+Scenario 3: Minimum Order Value Not Met
+Situation: Order value below required threshold
+Policy Applied: Coupon conditions
+Decision: Discount not applied
+Scenario 4: Multiple Coupons Attempt
+Situation: Customer tries to stack multiple coupons
+Policy Applied: Single coupon rule
+Decision: Only one coupon allowed
+Scenario 5: Coupon Applied but Order Canceled
+Situation: Order canceled after using coupon
+Policy Applied: Coupon reuse policy
+Decision: Coupon may be restored if eligible
+Scenario 6: Refund on Discounted Order
+Situation: Customer returns item bought with coupon
+Policy Applied: Refund calculation
+Decision: Refund based on discounted price
+Scenario 7: Seller-Specific Promotion
+Situation: Coupon valid only for specific seller
+Policy Applied: Seller restriction
+Decision: Coupon invalid for other sellers
+Scenario 8: Cashback Offer Dispute
+Situation: Customer did not receive cashback
+Policy Applied: Cashback terms
+Decision: Verify eligibility and process if valid
+Scenario 9: First-Time User Coupon Abuse
+Situation: User creates multiple accounts
+Policy Applied: Abuse prevention
+Decision: Coupon invalidated and account flagged
+Scenario 10: Flash Sale Pricing Error
+Situation: Incorrect discount applied during flash sale
+Policy Applied: Pricing error clause
+Decision: Order may be canceled or corrected
+Appendix B: Regional Variations
+India
+Heavy use of coupons and cashback
+Festival-based promotions common
+Wallet-based cashback systems popular
+United States
+Discount codes widely used
+Seasonal sales (Black Friday, Cyber Monday)
+Limited coupon stacking
+European Union
+Strict pricing transparency rules
+Discounts must show original price
+Consumer protection laws apply
+International Promotions
+Coupons may not apply across regions
+Currency conversion affects discounts
+Regional eligibility restrictions
+Platform-Specific Variations
+Mobile app-only discounts
+New user exclusive offers
+Payment method-based promotions
+Appendix C: Frequently Asked Questions (FAQs)
+Q1: Why is my coupon not working?
+
+A: It may not meet eligibility criteria or may have expired.
+
+Q2: Can I use multiple coupons?
+
+A: No, only one coupon can be applied per order.
+
+Q3: Will I get refund on discounted amount?
+
+A: Yes, refunds are based on final paid amount.
+
+Q4: Can I reuse a coupon?
+
+A: Only if it is still valid and unused.
+
+Q5: What is cashback?
+
+A: A partial refund credited after successful transaction.
+
+Q6: When will cashback be credited?
+
+A: Usually within a few days after order completion.
+
+Q7: Can coupons be transferred?
+
+A: No, coupons are non-transferable.
+
+Q8: What happens if I cancel an order with coupon?
+
+A: Coupon may be restored depending on terms.
+
+Q9: Are coupons valid on all products?
+
+A: No, some categories may be excluded.
+
+Q10: Can I apply coupon after placing order?
+
+A: No, coupons must be applied at checkout.
+
+Q11: Why was my coupon removed?
+
+A: It may violate terms or be flagged as misuse.
+
+Q12: Are there special coupons for new users?
+
+A: Yes, many platforms offer first-time user discounts.
+
+Q13: Do coupons work on sale items?
+
+A: Sometimes, depending on promotion rules.
+
+Q14: Can I combine cashback and coupons?
+
+A: In some cases, yes.
+
+Q15: What if discount is not applied correctly?
+
+A: Contact support for assistance.

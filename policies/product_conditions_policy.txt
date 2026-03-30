@@ -1,0 +1,364 @@
+Product Conditions and Return Exceptions Policy
+1. Overview
+
+This document defines the conditions under which products are eligible or ineligible for return, replacement, or refund. It also outlines exceptions based on product type, usage, hygiene concerns, and perishability.
+
+The objective is to ensure fairness while maintaining product integrity and safety standards.
+
+2. General Return Condition Requirements
+
+To qualify for a return, products must:
+
+Be unused and in original condition
+Include original packaging, tags, and accessories
+Not show signs of wear, damage, or alteration
+
+Failure to meet these conditions may result in rejection of return requests.
+
+3. Opened vs Unopened Products
+
+Return eligibility depends on whether the product has been opened:
+
+Unopened products: Generally eligible for return within the return window
+Opened products: May be ineligible unless defective or damaged
+
+Opened products are subject to stricter evaluation due to potential usage.
+
+4. Used Products
+
+Products that show signs of usage are typically not eligible for return.
+
+Examples of usage include:
+
+Physical wear and tear
+Missing parts
+Altered packaging
+Installation or activation
+
+Exceptions may apply if the product is defective.
+
+5. Hygiene-Sensitive Products
+
+Certain items cannot be returned once opened due to hygiene reasons.
+
+Examples include:
+
+Personal care products
+Innerwear
+Beauty and grooming items
+Health-related products
+
+If such items are opened or used:
+
+Return requests are usually denied
+
+Exceptions:
+
+Damaged, defective, or incorrect item delivered
+6. Perishable Products
+
+Perishable goods include:
+
+Food items
+Beverages
+Fresh or temperature-sensitive products
+
+Return conditions:
+
+Must be reported within 24 hours of delivery
+Evidence of spoilage or damage is required
+
+Returns may not be accepted due to logistics constraints, but refunds or replacements may be provided.
+
+7. Damaged or Defective Products
+
+If a product is received in damaged or defective condition:
+
+Must be reported within the defined timeframe (24–48 hours)
+Supporting evidence (images/videos) required
+
+Eligible resolutions:
+
+Replacement
+Refund
+8. Incorrect Product Delivered
+
+If the customer receives a wrong item:
+
+Must report within the return window
+Provide proof of mismatch
+
+Resolution:
+
+Replacement or refund
+9. Missing Components or Accessories
+
+If parts are missing:
+
+Must be reported within 48 hours
+Evidence may be required
+
+Resolution:
+
+Replacement of missing components
+Full replacement or refund if necessary
+10. Non-Returnable Product Categories
+
+Certain categories may be marked as non-returnable:
+
+Customized or personalized products
+Digital products or downloads
+Gift cards
+Clearance or final sale items
+
+These items are not eligible for return unless defective.
+
+11. Electronics and High-Value Items
+
+For electronics:
+
+Must be returned with original packaging and accessories
+Serial numbers may be verified
+
+If activated or used:
+
+Return may be denied unless defective
+12. Seal and Packaging Integrity
+
+Products with tamper-proof seals:
+
+Must not be opened for return eligibility
+Broken seals may result in rejection
+
+Exceptions:
+
+Defective or damaged items
+13. “Keep Item” Requests
+
+Requests where customers ask to:
+
+Keep the item
+Receive a full refund
+
+Such requests are generally denied unless:
+
+Product is low-value
+Return logistics are not feasible
+Approved as a goodwill exception
+14. Partial Damage Cases
+
+If only part of the product is damaged:
+
+Partial refund may be offered
+Replacement of damaged part may be considered
+
+Full refund may not be granted in such cases.
+
+15. Product Condition Verification
+
+Returned products are inspected for:
+
+Physical condition
+Completeness
+Signs of usage
+
+Outcomes:
+
+Approved return
+Partial refund
+Rejection
+16. Rejection of Returns
+
+Returns may be rejected if:
+
+Product is used or damaged by customer
+Missing original packaging
+Request made after return window
+Evidence is insufficient
+
+Rejected items may be sent back to the customer.
+
+17. Exchange Conditions
+
+Products eligible for exchange must:
+
+Meet original return conditions
+Be available in replacement inventory
+
+Exchange may not be possible if stock is unavailable.
+
+18. Seller-Specific Conditions
+
+Marketplace sellers may define additional conditions.
+
+However:
+
+Platform policies take precedence in disputes
+19. Fraud Prevention
+
+The platform monitors:
+
+Frequent return requests
+Claims inconsistent with evidence
+
+Suspicious activity may result in:
+
+Return denial
+Account restrictions
+20. Exceptional Approvals
+
+In rare cases, exceptions may be granted:
+
+Based on customer history
+Product category
+Operational feasibility
+
+Such approvals must be documented.
+
+21. Customer Responsibility
+
+Customers must:
+
+Inspect products upon delivery
+Maintain product condition for returns
+Provide accurate information
+22. Policy Updates
+
+Product condition rules may be updated periodically.
+
+23. Compliance Enforcement
+
+All return requests are evaluated against this policy.
+
+Non-compliance may result in denial of request.
+
+24. Support Assistance
+
+Customers may contact support for clarification on product eligibility.
+
+25. Final Authority
+
+Final decisions regarding product condition and return eligibility rest with the platform, based on policy guidelines and verification results.
+
+Appendix A: Real-World Scenarios
+Scenario 1: Used Product Sold as New
+Situation: Customer receives a used item labeled as new
+Policy Applied: Product condition accuracy
+Decision: Full refund or replacement issued
+Scenario 2: Damaged Product Sold Without Disclosure
+Situation: Item has defects not mentioned
+Policy Applied: Transparency policy
+Decision: Return accepted; seller penalized
+Scenario 3: Refurbished Product Misrepresented
+Situation: Refurbished item sold as original
+Policy Applied: Product classification
+Decision: Listing corrected; refund provided
+Scenario 4: Missing Accessories
+Situation: Product delivered without included items
+Policy Applied: Completeness requirement
+Decision: Missing items shipped or partial refund
+Scenario 5: Expired Product Delivered
+Situation: Perishable item past expiry date
+Policy Applied: Safety standards
+Decision: Immediate refund and removal of listing
+Scenario 6: Open-Box Item Not Declared
+Situation: Product already opened before delivery
+Policy Applied: Disclosure requirement
+Decision: Return approved
+Scenario 7: Product Quality Below Expectation
+Situation: Item does not meet described quality
+Policy Applied: Quality assurance
+Decision: Return or exchange offered
+Scenario 8: Counterfeit Product Delivered
+Situation: Fake version of branded item
+Policy Applied: Authenticity policy
+Decision: Refund and seller suspension
+Scenario 9: Product Condition Changes During Delivery
+Situation: Item damaged in transit
+Policy Applied: Delivery responsibility
+Decision: Replacement provided
+Scenario 10: Incorrect Condition Tag
+Situation: Product marked as “new” instead of “used”
+Policy Applied: Listing accuracy
+Decision: Listing updated; compensation issued
+Appendix B: Regional Variations
+India
+Mixed product quality standards
+High demand for refurbished items
+Price-sensitive buying behavior
+United States
+Strict quality classification
+Clear labeling (new, used, refurbished)
+High return expectations
+European Union
+Strong consumer protection laws
+Mandatory product disclosures
+High safety standards
+International Products
+Variation in quality standards
+Import/export condition checks
+Certification requirements
+Rural/Local Markets
+Limited product variety
+Less strict condition verification
+Dependence on seller trust
+Appendix C: Frequently Asked Questions (FAQs)
+Q1: What does product condition mean?
+
+A: It describes the state of the product (new, used, etc.).
+
+Q2: Can I return a used product?
+
+A: Only if it does not match description.
+
+Q3: What is a refurbished product?
+
+A: Repaired and tested item sold again.
+
+Q4: Are all products new?
+
+A: No, depends on listing.
+
+Q5: What if product is damaged?
+
+A: You can request return or replacement.
+
+Q6: Are accessories included?
+
+A: Yes, as mentioned in description.
+
+Q7: What if product is fake?
+
+A: Full refund and action against seller.
+
+Q8: Can condition be wrong?
+
+A: Rare, but can be reported.
+
+Q9: What is open-box product?
+
+A: Item that has been opened but unused.
+
+Q10: Are expired products allowed?
+
+A: No.
+
+Q11: Can I verify product condition before buying?
+
+A: Through description and images.
+
+Q12: What if quality is poor?
+
+A: Return or exchange is available.
+
+Q13: Are refurbished items reliable?
+
+A: Yes, if certified.
+
+Q14: Can sellers mislabel products?
+
+A: Not allowed; strict action taken.
+
+Q15: What if product condition changes during delivery?
+
+A: Replacement or refund provided.

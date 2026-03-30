@@ -1,0 +1,328 @@
+Payment Policy
+1. Overview
+
+This document outlines the rules and procedures related to payments made on the platform. It covers accepted payment methods, transaction processing, failures, refunds, and fraud prevention mechanisms.
+
+The objective is to ensure secure, transparent, and reliable payment handling for all users.
+
+2. Accepted Payment Methods
+
+The platform supports multiple payment options:
+
+Credit and Debit Cards
+UPI (Unified Payments Interface)
+Net Banking
+Digital Wallets
+Cash on Delivery (COD) (subject to eligibility)
+
+Availability of payment methods may vary based on:
+
+Order value
+Delivery location
+User account status
+3. Payment Authorization
+
+All payments are subject to authorization by the respective financial institution.
+
+Orders are confirmed only after:
+
+Successful payment authorization
+Verification of transaction details
+
+Failed authorization results in order cancellation.
+
+4. Payment Processing
+
+Once a payment is initiated:
+
+Funds may be temporarily held by the bank
+Confirmation is sent upon successful processing
+Invoice is generated for completed transactions
+
+Processing times may vary depending on the payment method.
+
+5. Failed Transactions
+
+A transaction may fail due to:
+
+Insufficient balance
+Network issues
+Bank authorization failure
+Incorrect payment details
+
+In such cases:
+
+No order is confirmed
+Held amount (if any) is released automatically
+
+Customers are advised to retry or use an alternative payment method.
+
+6. Duplicate Payments
+
+If multiple payments are made for the same order:
+
+Excess amount is identified automatically
+Refund is initiated to the original payment source
+
+Processing time depends on the payment provider.
+
+7. Refund Processing
+
+Refunds are initiated under the following scenarios:
+
+Order cancellation
+Return of products
+Failed delivery
+Payment errors
+
+Refund timelines:
+
+UPI/Wallet: 2–4 business days
+Cards: 5–7 business days
+Net Banking: 3–5 business days
+
+Refunds are processed only after validation of eligibility.
+
+8. Cash on Delivery (COD)
+
+COD allows customers to pay at the time of delivery.
+
+Conditions:
+
+Available for select locations and products
+May include additional service charges
+Subject to order value limits
+
+COD orders may be restricted for users with high return or cancellation rates.
+
+9. Payment Security
+
+The platform ensures secure transactions through:
+
+Encryption technologies
+Secure payment gateways
+Fraud detection systems
+
+Sensitive information such as card details is not stored without consent.
+
+10. Fraud Detection and Prevention
+
+The platform actively monitors transactions for suspicious activity, including:
+
+Unusual transaction patterns
+Multiple failed attempts
+High-value orders from new accounts
+
+Actions may include:
+
+Transaction blocking
+Account verification
+Order cancellation
+11. Chargebacks
+
+If a customer disputes a charge through their bank:
+
+Transaction is marked under investigation
+Platform may request supporting documents
+
+Unjustified chargebacks may result in:
+
+Account restrictions
+Legal action in severe cases
+12. Payment Disputes
+
+Customers may raise disputes for:
+
+Incorrect charges
+Failed transactions with deducted amount
+Unauthorized payments
+
+Support team reviews cases and provides resolution within 3–7 business days.
+
+13. Partial Payments and Split Payments
+
+Some orders may support:
+
+Partial payments (e.g., wallet + card)
+Split payments across methods
+
+Refunds in such cases are processed proportionally.
+
+14. Currency and Regional Restrictions
+
+Transactions are processed in the applicable local currency.
+
+International transactions may include:
+
+Currency conversion charges
+Additional bank fees
+15. Taxes and Charges
+
+Applicable taxes are included in the final price.
+
+Additional charges may include:
+
+Shipping fees
+COD handling charges
+Platform service fees
+
+All charges are displayed before payment confirmation.
+
+16. Payment Confirmation and Receipts
+
+Customers receive:
+
+Payment confirmation notification
+Invoice or receipt
+
+These can be accessed through the order history section.
+
+17. Payment Failures After Deduction
+
+In rare cases where payment is deducted but order is not confirmed:
+
+Amount is automatically refunded
+Timeline depends on bank processing
+
+Customers may contact support if refund is delayed.
+
+18. Account Restrictions
+
+Accounts may be restricted for:
+
+Repeated payment failures
+Suspicious transactions
+Chargeback abuse
+
+Restrictions may limit access to certain payment methods.
+
+19. Policy Updates
+
+The platform reserves the right to update payment-related policies as required.
+
+20. Customer Support
+
+For payment-related issues, customers can contact support. Resolution timelines typically range between 24–72 hours.
+
+Appendix A: Real-World Scenarios
+Scenario 1: Payment Deducted but Order Not Confirmed
+Situation: Amount debited but no order created
+Policy Applied: Payment verification
+Decision: Refund initiated after confirmation
+Scenario 2: Failed Payment Transaction
+Situation: Payment fails during checkout
+Policy Applied: Payment failure handling
+Decision: No charge or automatic reversal
+Scenario 3: Double Payment Deduction
+Situation: Customer charged twice for same order
+Policy Applied: Duplicate transaction handling
+Decision: Extra amount refunded
+Scenario 4: Unauthorized Transaction
+Situation: Payment made without user consent
+Policy Applied: Fraud prevention
+Decision: Account secured; investigation initiated
+Scenario 5: Refund to Expired Card
+Situation: Original payment method inactive
+Policy Applied: Refund routing
+Decision: Refund redirected to alternate method
+Scenario 6: COD Payment Refusal
+Situation: Customer refuses to pay at delivery
+Policy Applied: COD handling
+Decision: Order marked as failed
+Scenario 7: Payment Gateway Error
+Situation: Technical issue during transaction
+Policy Applied: Gateway reliability
+Decision: Retry or refund initiated
+Scenario 8: Partial Payment Issue
+Situation: Only part of payment processed
+Policy Applied: Payment reconciliation
+Decision: Balance adjusted or refunded
+Scenario 9: Currency Conversion Issue
+Situation: Different charged amount due to conversion
+Policy Applied: International payment policy
+Decision: Charges explained; no adjustment
+Scenario 10: Wallet Payment Failure
+Situation: Digital wallet transaction unsuccessful
+Policy Applied: Wallet handling
+Decision: Retry or choose alternate method
+Appendix B: Regional Variations
+India
+UPI, Net Banking, and COD widely used
+Faster refunds via digital payments
+Wallet-based transactions common
+United States
+Credit and debit cards dominant
+Faster refund cycles
+Chargeback system widely used
+European Union
+Strong financial regulations
+Secure payment authentication required
+Strict refund timelines
+International Payments
+Currency conversion applicable
+Cross-border transaction fees
+Longer refund timelines
+Remote Areas
+Limited digital payment options
+COD preferred
+Delays in refund processing
+Appendix C: Frequently Asked Questions (FAQs)
+Q1: What payment methods are accepted?
+
+A: Cards, UPI, net banking, wallets, and COD.
+
+Q2: What if my payment fails?
+
+A: You can retry or choose another method.
+
+Q3: When will I get my refund?
+
+A: Usually within 5–7 business days.
+
+Q4: Can I change payment method after placing order?
+
+A: No, but you can cancel and reorder.
+
+Q5: What if I am charged twice?
+
+A: Extra amount will be refunded.
+
+Q6: Are payments secure?
+
+A: Yes, processed through secure gateways.
+
+Q7: Can I pay on delivery?
+
+A: Yes, if COD is available.
+
+Q8: What if refund is delayed?
+
+A: Contact support for assistance.
+
+Q9: Do I get refund in wallet or bank?
+
+A: Refund is processed to original payment method.
+
+Q10: Can international payments be refunded?
+
+A: Yes, but processing may take longer.
+
+Q11: What is a chargeback?
+
+A: A dispute raised with your bank for transaction reversal.
+
+Q12: Can I use multiple payment methods?
+
+A: Generally not supported.
+
+Q13: Are there extra charges for online payments?
+
+A: Usually no, unless specified.
+
+Q14: What if payment is pending?
+
+A: Order will not be confirmed until payment is completed.
+
+Q15: Can someone else pay for my order?
+
+A: Yes, if payment details are valid. 

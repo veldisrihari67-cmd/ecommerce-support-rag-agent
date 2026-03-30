@@ -1,0 +1,253 @@
+Shipping and Delivery Policy
+1. Overview
+
+This document defines the shipping, delivery, and logistics-related policies for orders placed on the platform. The objective is to ensure timely delivery, transparency in shipping costs, and clear procedures for handling delays or delivery failures.
+
+Shipping timelines and charges may vary depending on product type, seller, and delivery location.
+
+2. Shipping Methods
+
+Orders are fulfilled through two primary methods:
+
+First-party fulfillment (platform-managed warehouses)
+Marketplace seller fulfillment
+
+Each method may have different delivery timelines and service levels.
+
+3. Delivery Timeframes
+
+Estimated delivery dates are shown at the time of purchase. These estimates depend on:
+
+Customer location
+Seller location
+Inventory availability
+Courier partner efficiency
+
+Typical delivery timelines:
+
+Standard Shipping: 3–7 business days
+Expedited Shipping: 1–3 business days
+Remote Area Delivery: 5–10 business days
+
+Delays may occur due to unforeseen circumstances such as weather conditions, strikes, or regulatory restrictions.
+
+4. Shipping Charges
+
+Shipping charges are calculated based on:
+
+Order value
+Delivery location
+Product weight and dimensions
+
+Free shipping may be available under certain conditions:
+
+Orders above a specified value
+Promotional campaigns
+Subscription-based benefits
+
+Shipping fees are displayed during checkout before payment confirmation.
+
+5. Order Tracking
+
+Once an order is shipped, customers receive tracking details via:
+
+Email notifications
+SMS alerts
+Platform dashboard
+
+Tracking information includes:
+
+Shipment status
+Estimated delivery date
+Courier partner details
+6. Delayed Deliveries
+
+If an order is delayed beyond the estimated delivery date:
+
+Customers may contact support for updates
+Compensation may be provided in select cases (e.g., shipping refunds)
+
+Delays do not automatically qualify for full refunds unless the item is no longer needed and return conditions are met.
+
+7. Lost or Missing Packages
+
+A package is considered lost if:
+
+Tracking shows no movement for an extended period
+Delivery is marked completed but not received by the customer
+
+In such cases:
+
+Investigation is initiated with the logistics partner
+Resolution is provided within 3–7 business days
+
+Possible outcomes:
+
+Replacement shipment
+Full refund
+8. Failed Delivery Attempts
+
+Delivery may fail due to:
+
+Incorrect address
+Customer unavailability
+Access restrictions
+
+After multiple failed attempts:
+
+Order may be returned to origin
+Refund or re-delivery options may be provided
+9. International Shipping
+
+For cross-border orders:
+
+Additional charges may apply (customs, duties, taxes)
+Delivery timelines may extend beyond standard estimates
+
+Customers are responsible for complying with local import regulations.
+
+10. Damaged During Transit
+
+If a product is damaged during shipping:
+
+Customer must report within 48 hours
+Supporting evidence (photos/videos) may be required
+
+Resolution options include:
+
+Replacement
+Refund
+11. Address Modification
+
+Customers may update delivery addresses before shipment. Once shipped, changes may not be possible.
+
+12. Policy Updates
+
+Shipping policies may be updated periodically. Customers are advised to review them before placing orders.
+
+13. Customer Support
+
+For shipping-related queries, customers can contact support. Resolution timelines typically range between 24–72 hours.
+
+Appendix A: Real-World Scenarios
+Scenario 1: Delayed Shipment
+Situation: Order not shipped within expected time
+Policy Applied: Shipping timeline policy
+Decision: Notify customer + allow cancellation
+Scenario 2: Package Lost in Transit
+Situation: Courier confirms parcel lost
+Policy Applied: Logistics responsibility
+Decision: Full refund or replacement
+Scenario 3: Incorrect Delivery Address
+Situation: Customer entered wrong address
+Policy Applied: Address responsibility
+Decision: Delivery failure; re-shipping charges may apply
+Scenario 4: Customer Not Available
+Situation: Delivery attempts failed due to absence
+Policy Applied: Failed delivery attempts
+Decision: Reattempt or return to origin
+Scenario 5: Partial Shipment
+Situation: Order delivered in multiple packages
+Policy Applied: Split shipment handling
+Decision: Inform customer; remaining items shipped separately
+Scenario 6: Damaged Package on Arrival
+Situation: Outer packaging visibly damaged
+Policy Applied: Delivery damage protocol
+Decision: Customer advised to report immediately
+Scenario 7: Delivery Marked but Not Received
+Situation: Tracking shows delivered, customer denies receipt
+Policy Applied: Delivery verification
+Decision: Investigation initiated
+Scenario 8: Remote Area Delivery Delay
+Situation: Delivery delayed due to remote location
+Policy Applied: Regional delivery variation
+Decision: Extended delivery timeline communicated
+Scenario 9: Weather Disruption
+Situation: Heavy rain or natural disaster delays delivery
+Policy Applied: Force majeure
+Decision: No penalty; updated ETA provided
+Scenario 10: Refused Delivery
+Situation: Customer refuses package
+Policy Applied: Refusal handling
+Decision: Returned to origin; refund initiated after return
+Appendix B: Regional Variations
+India
+Cash on Delivery available
+Delivery timelines vary by state and rural access
+Reverse logistics limited in some regions
+United States
+Faster shipping (2–5 days standard)
+Advanced tracking systems
+Weekend deliveries common
+European Union
+Strict delivery commitments
+Consumer protection for delays
+Cross-border shipping within EU faster
+International Shipping
+Customs clearance required
+Additional duties and taxes may apply
+Delivery timelines longer (7–21 days)
+Remote Locations
+Limited courier availability
+Delivery delays common
+Self-pickup may be required in rare cases
+Appendix C: Frequently Asked Questions (FAQs)
+Q1: How long does shipping take?
+
+A: Typically 3–7 business days depending on location.
+
+Q2: Can I track my order?
+
+A: Yes, tracking details are provided after shipment.
+
+Q3: What if my order is delayed?
+
+A: You will be notified and may contact support.
+
+Q4: Can I change my delivery address?
+
+A: Only before the order is shipped.
+
+Q5: What happens if I miss delivery?
+
+A: Courier will attempt re-delivery or return to origin.
+
+Q6: Are shipping charges refundable?
+
+A: Only in cases of platform fault or failed delivery.
+
+Q7: Do you deliver internationally?
+
+A: Yes, but additional charges may apply.
+
+Q8: What if my package is lost?
+
+A: You will receive a refund or replacement.
+
+Q9: Can I schedule delivery time?
+
+A: This depends on courier availability.
+
+Q10: What if my package is damaged?
+
+A: Report immediately with proof for resolution.
+
+Q11: Are there extra charges for remote areas?
+
+A: In some cases, additional fees may apply.
+
+Q12: Can someone else receive my package?
+
+A: Yes, unless OTP or ID verification is required.
+
+Q13: What if tracking is not updating?
+
+A: It may take time; contact support if delay persists.
+
+Q14: Is same-day delivery available?
+
+A: Only in select locations.
+
+Q15: What happens if delivery fails multiple times?
+
+A: The order may be returned to origin.

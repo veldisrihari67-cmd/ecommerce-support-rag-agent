@@ -1,0 +1,243 @@
+Cancellation Policy
+1. Overview
+
+This document defines the rules and procedures governing order cancellations on the platform. It ensures transparency for customers while balancing operational constraints related to order processing, seller commitments, and logistics handling.
+
+Order cancellation eligibility depends on the order status, fulfillment type, and product category.
+
+2. Cancellation Window
+
+Customers may cancel orders under the following conditions:
+
+Before Shipment: Orders can typically be cancelled without restrictions.
+After Shipment: Cancellation may not be possible; customers must initiate a return instead.
+Out for Delivery: Cancellation is generally not allowed.
+
+The exact cancellation window varies depending on:
+
+Seller processing speed
+Product category
+Payment confirmation status
+3. Cancellation Methods
+
+Customers can cancel orders through:
+
+Order history dashboard
+Customer support assistance
+
+Steps include:
+
+Selecting the order
+Choosing cancellation reason
+Confirming cancellation request
+4. Instant vs Approval-Based Cancellation
+
+Orders may fall into two categories:
+
+a) Instant Cancellation
+Applicable for platform-fulfilled orders
+Processed immediately without seller intervention
+b) Seller Approval Required
+Applies to marketplace orders
+Seller reviews and approves/rejects the request
+5. Refund for Cancelled Orders
+
+Refunds for cancelled orders are processed based on payment method:
+
+Prepaid Orders: Full refund initiated automatically
+Cash on Delivery (COD): No charge applied if cancelled before delivery
+
+Refund timelines:
+
+Wallet/UPI: 2–4 days
+Cards: 5–7 days
+6. Partial Cancellation
+
+Customers may cancel specific items within an order if:
+
+Items are shipped separately
+Seller supports item-level cancellation
+7. Cancellation Restrictions
+
+Cancellation may not be allowed for:
+
+Personalized or customized products
+Perishable items once processed
+Digital goods or subscriptions
+High-demand limited stock items
+8. Failed Cancellation Attempts
+
+If cancellation fails:
+
+Customer must wait for delivery
+Initiate return as per return policy
+9. Auto-Cancellation by System
+
+Orders may be automatically cancelled due to:
+
+Payment failure
+Stock unavailability
+Seller inability to fulfill
+
+Customers are notified and refunded where applicable.
+
+10. Abuse Prevention
+
+Frequent cancellations may trigger:
+
+Account monitoring
+Temporary restrictions
+
+This ensures fair platform usage.
+
+11. Cancellation After Delivery Attempt
+
+If a customer refuses delivery:
+
+Order is marked as cancelled
+Refund processed after item returns to warehouse
+
+Shipping charges may be deducted in certain cases.
+
+12. Marketplace-Specific Conditions
+
+For marketplace sellers:
+
+Cancellation rules may vary
+Seller policies override platform defaults in some cases
+13. Dispute Scenarios
+
+If cancellation is denied unfairly:
+
+Customer may raise a dispute
+Case reviewed by support team
+14. Policy Updates
+
+The platform reserves the right to update cancellation rules at any time.
+
+15. Customer Support
+
+Customers can contact support for cancellation-related issues. Resolution timelines range between 24–72 hours.
+
+Appendix A: Real-World Scenarios
+Scenario 1: Immediate Cancellation After Order Placement
+Situation: Customer cancels within minutes of placing order
+Policy Applied: Pre-shipment cancellation
+Decision: Full refund initiated
+Scenario 2: Cancellation After Shipment
+Situation: Customer requests cancellation after item is shipped
+Policy Applied: In-transit cancellation restriction
+Decision: Cancellation denied; return process advised
+Scenario 3: Seller Delays Shipment
+Situation: Order not shipped within expected timeframe
+Policy Applied: Seller delay clause
+Decision: Customer allowed to cancel with full refund
+Scenario 4: Partial Order Cancellation
+Situation: Customer cancels one item from multi-item order
+Policy Applied: Partial cancellation
+Decision: Refund processed for canceled item
+Scenario 5: COD Order Cancellation
+Situation: Customer cancels Cash on Delivery order
+Policy Applied: COD handling
+Decision: No refund required; order simply canceled
+Scenario 6: Payment Failure but Order Placed
+Situation: Payment incomplete but order generated
+Policy Applied: Payment verification
+Decision: Order automatically canceled
+Scenario 7: Cancellation Due to Wrong Address
+Situation: Customer realizes address is incorrect
+Policy Applied: Pre-shipment cancellation
+Decision: Cancellation allowed if not shipped
+Scenario 8: System Error Cancellation
+Situation: Duplicate order placed due to system glitch
+Policy Applied: System error handling
+Decision: Duplicate order canceled and refunded
+Scenario 9: Customer Changes Mind
+Situation: Customer no longer wants product
+Policy Applied: Standard cancellation
+Decision: Allowed before shipment
+Scenario 10: Bulk Order Cancellation Abuse
+Situation: Customer repeatedly cancels large orders
+Policy Applied: Abuse monitoring
+Decision: Account flagged for review
+Appendix B: Regional Variations
+India
+COD cancellation common and easy
+Cancellation allowed before shipment
+Refund timelines vary by payment method
+United States
+Faster cancellation processing
+Refunds initiated quickly
+Strict policies once shipped
+European Union
+Strong consumer protection
+Cooling-off period applies
+Easier cancellation rights
+International Orders
+Cancellation limited once processed
+Refund delays due to currency conversion
+Shipping charges may not be refundable
+Remote Areas
+Slower order processing
+Cancellation window may be longer before shipment
+Communication delays possible
+Appendix C: Frequently Asked Questions (FAQs)
+Q1: Can I cancel my order anytime?
+
+A: Only before the order is shipped.
+
+Q2: Will I get a full refund on cancellation?
+
+A: Yes, if canceled before shipment.
+
+Q3: Can I cancel after shipping?
+
+A: No, but you can return the item after delivery.
+
+Q4: How long does refund take after cancellation?
+
+A: Typically 5–7 business days.
+
+Q5: Can I cancel part of my order?
+
+A: Yes, partial cancellations are allowed.
+
+Q6: What happens to COD orders if canceled?
+
+A: No payment is processed; order is canceled.
+
+Q7: Can I modify my order instead of canceling?
+
+A: Modification may not be allowed; cancellation is recommended.
+
+Q8: What if seller delays shipping?
+
+A: You can cancel and get a full refund.
+
+Q9: Will shipping charges be refunded?
+
+A: Only if cancellation is due to platform or seller issue.
+
+Q10: What if cancellation request fails?
+
+A: Contact customer support immediately.
+
+Q11: Can I cancel international orders?
+
+A: Yes, but only before processing begins.
+
+Q12: What if I placed duplicate orders?
+
+A: You can cancel the extra order.
+
+Q13: Is there a cancellation fee?
+
+A: Usually no, unless specified.
+
+Q14: What happens if refund is delayed?
+
+A: Contact support for assistance.
+
+Q15: Can seller cancel my order?
+
+A: Yes, in case of stock or operational issues.
