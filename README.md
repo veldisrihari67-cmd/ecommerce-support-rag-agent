@@ -11,7 +11,7 @@ This system is built using a **Modular 4-Agent Pipeline** to resolve customer su
 4. **Compliance Agent:** The final "Gatekeeper." It verifies citations and strips any hallucinated claims before the customer sees the draft.
 
 ## 📄 Data & Chunking Strategy
-- **Source:** 12 Policy Documents (.txt format).
+- **Source:** 13 Policy Documents (.txt format).
 - **Chunking:** Paragraph-based splitting (Recursive) to maintain semantic meaning.
 - **Retrieval:** Keyword-matching with a 1,000-character limit per chunk to ensure high-density context within the 6,000-token API window.
 
